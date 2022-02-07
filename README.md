@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Alkemy Challenge**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity and Web3**
 
 - 👯 I’m looking to collaborate on **No Country Startup**
 

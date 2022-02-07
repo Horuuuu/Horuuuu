@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Javascript,React Js**
 
-- 📫 How to reach me **H2.globo@gmail.com**
+- 📫 How to reach me **h2.globo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

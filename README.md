@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **No Country Startup**
 
-- 👨‍💻 All of my projects are available at [https://resumencv.netlify.app/](https://resumencv.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://portfolio-horuuuu.vercel.app/)
 
 - 💬 Ask me about **Javascript,React Js**
 

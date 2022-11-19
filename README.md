@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horuuuu" alt="horuuuu" /></a> </p>
 
-- 🔭 I’m currently working on **Alkemy Challenge**
+- 🔭 I’m currently working on **a StartUp**
 
-- 🌱 I’m currently learning **Solidity and Web3**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **No Country Startup**
+- 👯 I’m looking to collaborate on **Differents projects**
 
 - 👨‍💻 All of my projects are available at [http://portfolio-horuuuu.vercel.app/)
 
